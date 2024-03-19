@@ -1,0 +1,577 @@
+Level Layout:
+Level: 0
+x x k k g 
+x k k k c 
+k x k k m 
+k w m c k 
+m k c b g 
+==========================
+Level: 1
+k b m k x 
+g g x g k 
+m g c k m 
+k c x x x 
+m c c x g 
+==========================
+GAME START
+LEVEL 0: Mario is at Location: (4, 3)
+
+Mario is at Power Level 0.
+Mario has 0 coins.
+Mario has 3 lives left
+Mario Won the battle against the Boss!
+BOSS BATTLE
+Mario Lost the battle against the Boss!
+Defeated Enemy, Defeated Enemy Count: 1.
+Mario has 3 lifes after this move.
+Mario has 0 coins after this move.
+x x k k g 
+x k k k c 
+k x k k m 
+k w m c k 
+m k c H g 
+==========================
+LEVEL 1: Mario is at Location: (4, 3)
+
+Mario is at Power Level 0.
+Mario has 0 coins.
+Mario has 3 lives left
+Nothing Happened
+Mario has 3 lifes after this move.
+Mario has 0 coins after this move.
+k b m k x 
+g g x g k 
+m g c k m 
+k c x x x 
+m c c H g 
+==========================
+Mario will move right.
+Mario is at Power Level 0.
+Mario has 0 coins.
+Mario has 3 lives left
+GOOMBA BATTLE
+Mario Won the battle against the Goomba!
+Defeated Enemy, Defeated Enemy Count: 2.
+Mario has 3 lifes after this move.
+Mario has 0 coins after this move.
+k b m k x 
+g g x g k 
+m g c k m 
+k c x x x 
+m c c x H 
+==========================
+Mario will move right.
+Mario is at Power Level 0.
+Mario has 0 coins.
+Mario has 3 lives left
+Obtained Mushroom, Power Level is now 1!
+Mario has 3 lifes after this move.
+Mario has 0 coins after this move.
+k b m k x 
+g g x g k 
+m g c k m 
+k c x x x 
+H c c x x 
+==========================
+Mario will move left.
+Mario is at Power Level 1.
+Mario has 0 coins.
+Mario has 3 lives left
+Nothing Happened
+Mario has 3 lifes after this move.
+Mario has 0 coins after this move.
+k b m k x 
+g g x g k 
+m g c k m 
+k c x x x 
+x c c x H 
+==========================
+Mario will move down.
+Mario is at Power Level 1.
+Mario has 0 coins.
+Mario has 3 lives left
+Nothing Happened
+Mario has 3 lifes after this move.
+Mario has 0 coins after this move.
+k b m k H 
+g g x g k 
+m g c k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move down.
+Mario is at Power Level 1.
+Mario has 0 coins.
+Mario has 3 lives left
+KOOPA BATTLE
+Mario Won the battle against the Koopa!
+Defeated Enemy, Defeated Enemy Count: 3.
+Mario has 3 lifes after this move.
+Mario has 0 coins after this move.
+k b m k x 
+g g x g H 
+m g c k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move left.
+Mario is at Power Level 1.
+Mario has 0 coins.
+Mario has 3 lives left
+GOOMBA BATTLE
+Mario Won the battle against the Goomba!
+Defeated Enemy, Defeated Enemy Count: 4.
+Mario has 3 lifes after this move.
+Mario has 0 coins after this move.
+k b m k x 
+g g x H x 
+m g c k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move up.
+Mario is at Power Level 1.
+Mario has 0 coins.
+Mario has 3 lives left
+KOOPA BATTLE
+Mario Lost the battle against the Koopa!
+Mario's Power Level is lowered to 0.
+Mario has 3 lifes after this move.
+Mario has 0 coins after this move.
+k b m H x 
+g g x x x 
+m g c k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move left.
+Mario is at Power Level 0.
+Mario has 0 coins.
+Mario has 3 lives left
+Obtained Mushroom, Power Level is now 1!
+Mario has 3 lifes after this move.
+Mario has 0 coins after this move.
+k b H k x 
+g g x x x 
+m g c k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move down.
+Mario is at Power Level 1.
+Mario has 0 coins.
+Mario has 3 lives left
+Nothing Happened
+Mario has 3 lifes after this move.
+Mario has 0 coins after this move.
+k b x k x 
+g g H x x 
+m g c k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move up.
+Mario is at Power Level 1.
+Mario has 0 coins.
+Mario has 3 lives left
+Nothing Happened
+Mario has 3 lifes after this move.
+Mario has 0 coins after this move.
+k b H k x 
+g g x x x 
+m g c k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move down.
+Mario is at Power Level 1.
+Mario has 0 coins.
+Mario has 3 lives left
+Nothing Happened
+Mario has 3 lifes after this move.
+Mario has 0 coins after this move.
+k b x k x 
+g g H x x 
+m g c k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move down.
+Mario is at Power Level 1.
+Mario has 0 coins.
+Mario has 3 lives left
+Obtained Coin, Coin Count is now 1 coins.
+Mario has 3 lifes after this move.
+Mario has 1 coins after this move.
+k b x k x 
+g g x x x 
+m g H k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move down.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 3 lives left
+Nothing Happened
+Mario has 3 lifes after this move.
+Mario has 1 coins after this move.
+k b x k x 
+g g x x x 
+m g x k m 
+k c H x x 
+x c c x x 
+==========================
+Mario will move up.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 3 lives left
+Nothing Happened
+Mario has 3 lifes after this move.
+Mario has 1 coins after this move.
+k b x k x 
+g g x x x 
+m g H k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move up.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 3 lives left
+Nothing Happened
+Mario has 3 lifes after this move.
+Mario has 1 coins after this move.
+k b x k x 
+g g H x x 
+m g x k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move right.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 3 lives left
+Nothing Happened
+Mario has 3 lifes after this move.
+Mario has 1 coins after this move.
+k b x k x 
+g g x H x 
+m g x k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move right.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 3 lives left
+Nothing Happened
+Mario has 3 lifes after this move.
+Mario has 1 coins after this move.
+k b x k x 
+g g x x H 
+m g x k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move right.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 3 lives left
+GOOMBA BATTLE
+Mario Won the battle against the Goomba!
+Defeated Enemy, Defeated Enemy Count: 5.
+Mario has 3 lifes after this move.
+Mario has 1 coins after this move.
+k b x k x 
+H g x x x 
+m g x k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move up.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 3 lives left
+KOOPA BATTLE
+Mario Won the battle against the Koopa!
+Defeated Enemy, Defeated Enemy Count: 6.
+Mario has 3 lifes after this move.
+Mario has 1 coins after this move.
+H b x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move right.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 3 lives left
+Mario Won the battle against the Boss!
+BOSS BATTLE
+Mario Has Lost a Life. Resetting Enemies Defeated to 0
+Mario lost a life! Mario has 2 lives left
+REMATCH
+Mario Won the battle against the Boss!
+BOSS BATTLE
+Mario Has Lost a Life. Resetting Enemies Defeated to 0
+Mario lost a life! Mario has 1 lives left
+REMATCH
+Mario Won the battle against the Boss!
+BOSS BATTLE
+Mario Has Lost a Life. Resetting Enemies Defeated to 0
+Mario lost a life! Mario has 0 lives left
+REMATCH
+Mario Won the battle against the Boss!
+BOSS BATTLE
+x H x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x c c x x 
+==========================
+You Lose :(
+Mario has 0 lifes after this move.
+Mario has 1 coins after this move.
+x H x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move left.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 0 lives left
+Nothing Happened
+Mario has 0 lifes after this move.
+Mario has 1 coins after this move.
+H b x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move left.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 0 lives left
+Nothing Happened
+Mario has 0 lifes after this move.
+Mario has 1 coins after this move.
+x b x k H 
+x g x x x 
+m g x k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move up.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 0 lives left
+Nothing Happened
+Mario has 0 lifes after this move.
+Mario has 1 coins after this move.
+x b x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x c c x H 
+==========================
+Mario will move left.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 0 lives left
+Nothing Happened
+Mario has 0 lifes after this move.
+Mario has 1 coins after this move.
+x b x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x c c H x 
+==========================
+Mario will move up.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 0 lives left
+Nothing Happened
+Mario has 0 lifes after this move.
+Mario has 1 coins after this move.
+x b x k x 
+x g x x x 
+m g x k m 
+k c x H x 
+x c c x x 
+==========================
+Mario will move left.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 0 lives left
+Nothing Happened
+Mario has 0 lifes after this move.
+Mario has 1 coins after this move.
+x b x k x 
+x g x x x 
+m g x k m 
+k c H x x 
+x c c x x 
+==========================
+Mario will move up.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 0 lives left
+Nothing Happened
+Mario has 0 lifes after this move.
+Mario has 1 coins after this move.
+x b x k x 
+x g x x x 
+m g H k m 
+k c x x x 
+x c c x x 
+==========================
+Mario will move down.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 0 lives left
+Nothing Happened
+Mario has 0 lifes after this move.
+Mario has 1 coins after this move.
+x b x k x 
+x g x x x 
+m g x k m 
+k c H x x 
+x c c x x 
+==========================
+Mario will move down.
+Mario is at Power Level 1.
+Mario has 1 coins.
+Mario has 0 lives left
+Obtained Coin, Coin Count is now 2 coins.
+Mario has 0 lifes after this move.
+Mario has 2 coins after this move.
+x b x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x c H x x 
+==========================
+Mario will move left.
+Mario is at Power Level 1.
+Mario has 2 coins.
+Mario has 0 lives left
+Obtained Coin, Coin Count is now 3 coins.
+Mario has 0 lifes after this move.
+Mario has 3 coins after this move.
+x b x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x H x x x 
+==========================
+Mario will move left.
+Mario is at Power Level 1.
+Mario has 3 coins.
+Mario has 0 lives left
+Nothing Happened
+Mario has 0 lifes after this move.
+Mario has 3 coins after this move.
+x b x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+H x x x x 
+==========================
+Mario will move down.
+Mario is at Power Level 1.
+Mario has 3 coins.
+Mario has 0 lives left
+Nothing Happened
+Mario has 0 lifes after this move.
+Mario has 3 coins after this move.
+H b x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x x x x x 
+==========================
+Mario will move right.
+Mario is at Power Level 1.
+Mario has 3 coins.
+Mario has 0 lives left
+Mario Won the battle against the Boss!
+BOSS BATTLE
+x H x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x x x x x 
+==========================
+You Lose :(
+Mario has 0 lifes after this move.
+Mario has 3 coins after this move.
+x H x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x x x x x 
+==========================
+Mario will move up.
+Mario is at Power Level 1.
+Mario has 3 coins.
+Mario has 0 lives left
+Nothing Happened
+Mario has 0 lifes after this move.
+Mario has 3 coins after this move.
+x b x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x H x x x 
+==========================
+Mario will move right.
+Mario is at Power Level 1.
+Mario has 3 coins.
+Mario has 0 lives left
+Nothing Happened
+Mario has 0 lifes after this move.
+Mario has 3 coins after this move.
+x b x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x x H x x 
+==========================
+Mario will move left.
+Mario is at Power Level 1.
+Mario has 3 coins.
+Mario has 0 lives left
+Nothing Happened
+Mario has 0 lifes after this move.
+Mario has 3 coins after this move.
+x b x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x H x x x 
+==========================
+Mario will move down.
+Mario is at Power Level 1.
+Mario has 3 coins.
+Mario has 0 lives left
+Mario Won the battle against the Boss!
+BOSS BATTLE
+Mario Lost the battle against the Boss!
+Defeated Enemy, Defeated Enemy Count: 1.
+Mario has 0 lifes after this move.
+Mario has 3 coins after this move.
+x H x k x 
+x g x x x 
+m g x k m 
+k c x x x 
+x x x x x 
+==========================
+Mario made 43 moves this game.
+CONGRATS YOU WIN
+
